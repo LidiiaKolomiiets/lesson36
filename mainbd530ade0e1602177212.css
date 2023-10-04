@@ -1,0 +1,19 @@
+.block{display:flex;flex-direction:column;gap:10px;width:500px;border:2px solid;padding:15px}
+.block{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 500px;
+    border: 2px solid;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+.table{
+    padding: 20px;
+}
+.table-item{
+    padding: 10px 25px 0 0;
+}
+.delete-icon, .edit-icon {
+    width: 20px;
+}
